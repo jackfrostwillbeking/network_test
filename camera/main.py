@@ -6,8 +6,8 @@ from processor.simple_streamer import SimpleStreamer as VideoCamera
 # from processor.face_detector import FaceDetector as VideoCamera
 # from processor.person_detector import PersonDetector as VideoCamera
 
-import time
-import threading
+#import time
+#import threading
 
 video_camera = VideoCamera(flip=False)
 
